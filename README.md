@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" width="1500"  height="500"/>
+</p>
+
 <h1 align="center">Hi , I'm Kavya M Injineri</h1>
 <h3 align="center">CS Engineering Student | ML & Backend Developer | AI Enthusiast</h3>
 
@@ -8,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="300"/>
 </p>
 
 
@@ -27,9 +31,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="400"/>
 </p>
 
-###  Languages & Tools
+ ###  Languages & Tools 
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,fastapi,nodejs,react,postgresql,docker,git,linux" />
 </p>
 
@@ -39,8 +43,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kavya-M-Injineri&show_icons=true&theme=tokyonight" width="48%" />
+</p>
+
+ --- 
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-M-Injineri&layout=compact&theme=tokyonight" width="48%" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kavya-M-Injineri&theme=tokyonight&hide_border=false" />
