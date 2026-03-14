@@ -7,18 +7,27 @@
 
 ---
 
-### 👩‍💻 About Me
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="400"/>
+</p>
 
-- 🎓 CSE student at **MITM, Mysuru**
-- 🔭 Currently interning at **Bluestock Fintech**
-- 🌱 Working with **Machine Learning, Deep Learning, YOLOv8, RAG, FastAPI**
-- 💡 Built projects like **KrishiSarthi AI**, **DevDoc AI**, **SoldierCare+**, **Digital Forensic Tool**
-- 📫 Reach me at: [linkedin.com/in/kavya-injineri](https://linkedin.com/in/kavya-injineri)
-- 🌐 Portfolio: [portfolio-six-pied-83.vercel.app](https://portfolio-six-pied-83.vercel.app)
+
+
+###  About Me
+
+-  Pursuing B.E in CSE at **MIT, Mysuru**
+-  Currently interning at **Bluestock Fintech**
+-  Working with **Machine Learning, Deep Learning, YOLOv8, RAG, FastAPI**
+-  Built projects like **KrishiSarthi AI**, **DevDoc AI**, **SoldierCare+**, **Digital Forensic Tool**
+-  Reach me at: [linkedin.com/in/kavya-injineri](https://linkedin.com/in/kavya-injineri)
+-  Portfolio: [portfolio-six-pied-83.vercel.app](https://portfolio-six-pied-83.vercel.app)
 
 ---
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="400"/>
+</p>
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,fastapi,nodejs,react,postgresql,docker,git,linux" />
@@ -26,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kavya-M-Injineri&show_icons=true&theme=tokyonight" width="48%" />
@@ -39,15 +48,15 @@
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🌾 KrishiSarthi AI | Crop disease detection | EfficientNet-B0, YOLOv8 |
-| 📄 DevDoc AI | RAG-based doc retrieval | FAISS, BERT |
-| 🫁 Pneumonia Detection | Medical image classification | CNN, Flask |
-| 🪖 SoldierCare+ | Biometric dashboard | React, Node.js, WebSockets |
-| ✅ Task Manager | Full-stack app | PostgreSQL, Docker, JWT |
+|  KrishiSarthi AI | Crop disease detection | EfficientNet-B0, YOLOv8 |
+|  DevDoc AI | RAG-based doc retrieval | FAISS, BERT |
+|  Pneumonia Detection | Medical image classification | CNN, Flask |
+|  SoldierCare+ | Biometric dashboard | React, Node.js, WebSockets |
+|  Task Manager | Full-stack app | PostgreSQL, Docker, JWT |
 
 ---
 
