@@ -2,6 +2,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" width="1500"  height="500"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Turning+tea+into+code,+one+commit+at+a+time+" />
+</p>
+
+---
+
 <h1 align="center">Hi , I'm Kavya M Injineri</h1>
 <h3 align="center">CS Engineering Student | ML & Backend Developer | AI Enthusiast</h3>
 
@@ -70,6 +76,12 @@
 |  Task Manager | Full-stack app | PostgreSQL, Docker, JWT |
 
 ---
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=99999999&color=FFB6C1&center=true&vCenter=true&width=700&lines=My+code+works,I+have+no+idea+y?My+tea+is+ready,I+know+exactly+y!"/>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kavya-M-Injineri&color=blueviolet&style=flat" alt="profile views" />
