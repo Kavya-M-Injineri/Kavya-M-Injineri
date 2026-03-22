@@ -12,7 +12,7 @@
 <h3 align="center">CS Engineering Student | ML & Backend Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Deep+Learning+%7C+Computer+Vision;NLP+%7C+Backend+Development;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Deep+Learning+%7C+Computer+Vision;NLP+%7C+Backend+Development;Always+learning+new+things!" alt="Typing SVG" width='100%' height='350'/>
 </p>
 
 ---
