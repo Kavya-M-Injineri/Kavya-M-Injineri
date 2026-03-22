@@ -12,13 +12,13 @@
 <h3 align="center">CS Engineering Student | ML & Backend Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Deep+Learning+%7C+Computer+Vision;NLP+%7C+Backend+Development;Always+learning+new+things!" alt="Typing SVG" width='100%' height='350'/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Deep+Learning+%7C+Computer+Vision;NLP+%7C+Backend+Development;Always+learning+new+things!" alt="Typing SVG"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="900" height="350"/>
 </p>
 
 
@@ -34,7 +34,7 @@
 
 ---
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="100%" height="350"/>
 </p>
 
  ###  Languages & Tools 
