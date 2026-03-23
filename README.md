@@ -1,88 +1,167 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" width="100%"  height="350"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Turning+tea+into+code,+one+commit+at+a+time+" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kavya%20M%20Injineri&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
----
+</div>
 
-<h1 align="center">Hi , I'm Kavya M Injineri</h1>
-<h3 align="center">CS Engineering Student | ML & Backend Developer | AI Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Deep+Learning+%7C+Computer+Vision;NLP+%7C+Backend+Development;Always+learning+new+things!" alt="Typing SVG"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works.;Deep+Learning+%7C+Computer+Vision+%7C+NLP;From+pixels+to+predictions+%F0%9F%A7%A0;One+commit+closer+to+something+real.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="900" height="350"/>
-</p>
-
-
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
 
 ###  About Me
 
--  Pursuing B.E in CSE at **MIT, Mysuru**
--  Currently interning at **Bluestock Fintech**
--  Working with **Machine Learning, Deep Learning, YOLOv8, RAG, FastAPI**
--  Built projects like **KrishiSarthi AI**, **DevDoc AI**, **SoldierCare+**, **Digital Forensic Tool**
--  Reach me at: [linkedin.com/in/kavya-injineri](https://linkedin.com/in/kavya-injineri)
--  Portfolio: [portfolio-six-pied-83.vercel.app](https://portfolio-six-pied-83.vercel.app)
+```python
+class Kavya:
+    def __init__(self):
+        self.name     = "Kavya M Injineri"
+        self.college  = "MIT Mysuru — B.E CSE"
+        self.cgpa     = 9.275
+        self.intern   = "Bluestock Fintech"
+        self.focus    = ["ML", "Deep Learning", "Backend", "AI Agents"]
+        self.stack    = ["Python", "PyTorch", "FastAPI", "React", "Docker"]
+        self.building = "Things that think "
 
----
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="100%" height="350"/>
-</p>
+    def contact(self):
+        return "linkedin.com/in/kavya-injineri"
+```
 
- ###  Languages & Tools 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,fastapi,nodejs,react,postgresql,docker,git,linux" />
-</p>
-
----
-
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavya-M-Injineri&show_icons=true&theme=tokyonight" width="48%" />
-</p>
-
- --- 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-M-Injineri&layout=compact&theme=tokyonight" width="48%" />
-</p>
+<br clear="right"/>
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kavya-M-Injineri&theme=tokyonight&hide_border=false" />
-</p>
+###  Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=A78BFA)
+![SQL](https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0f0c29?style=for-the-badge&logo=pytorch&logoColor=A78BFA)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=A78BFA)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-0f0c29?style=for-the-badge&logo=opencv&logoColor=A78BFA)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0f0c29?style=for-the-badge&logo=huggingface&logoColor=A78BFA)
+![FAISS](https://img.shields.io/badge/FAISS-0f0c29?style=for-the-badge&logo=meta&logoColor=A78BFA)
+
+**Backend & DevOps**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=A78BFA)
+![Flask](https://img.shields.io/badge/Flask-0f0c29?style=for-the-badge&logo=flask&logoColor=A78BFA)
+![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=node.js&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
+![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=A78BFA)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=A78BFA)
+![Vite](https://img.shields.io/badge/Vite-0f0c29?style=for-the-badge&logo=vite&logoColor=A78BFA)
+
+</div>
 
 ---
 
 ###  Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-|  KrishiSarthi AI | Crop disease detection | EfficientNet-B0, YOLOv8 |
-|  DevDoc AI | RAG-based doc retrieval | FAISS, BERT |
-|  Pneumonia Detection | Medical image classification | CNN, Flask |
-|  SoldierCare+ | Biometric dashboard | React, Node.js, WebSockets |
-|  Task Manager | Full-stack app | PostgreSQL, Docker, JWT |
+<table>
+<tr>
+<td width="50%">
+
+**🌾 KrishiSarthi AI**
+> Crop disease detection system using EfficientNet-B0 + YOLOv8. Real-time inference with bounding box overlays.
+
+`EfficientNet-B0` `YOLOv8` `PyTorch` `Flask`
+
+</td>
+<td width="50%">
+
+**📚 DevDoc AI**
+> RAG-based documentation retrieval using FAISS vector store + BERT embeddings. Semantic search over codebases.
+
+`FAISS` `BERT` `RAG` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🫁 Pneumonia Detection**
+> CNN-based medical image classifier. MobileNetV2 + Ayurvedic & modern medicine treatment recommendations.
+
+`CNN` `MobileNetV2` `Flask` `Medical AI`
+
+</td>
+<td width="50%">
+
+**🛡️ SoldierCare+**
+> Real-time biometric dashboard for soldier health monitoring with live WebSocket data streams.
+
+`React` `Node.js` `WebSockets` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🛸 SpaceGuard**
+> Anomaly detection on satellite telemetry using LSTM Autoencoder. Deployed on Hugging Face.
+
+`LSTM Autoencoder` `Docker` `Hugging Face`
+
+</td>
+<td width="50%">
+
+**✅ Task Manager**
+> Full-stack app with JWT auth, Swagger docs, and Dockerized deployment.
+
+`Node.js` `PostgreSQL` `Sequelize` `Docker` `JWT`
+
+</td>
+</tr>
+</table>
 
 ---
 
+###  GitHub Stats
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=99999999&color=FFB6C1&center=true&vCenter=true&width=700&lines=My+code+works,I+have+no+idea+y?My+tea+is+ready,I+know+exactly+y!"/>
-</p>
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Kavya-M-Injineri&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-M-Injineri&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=ffffff" width="48%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kavya-M-Injineri&color=blueviolet&style=flat" alt="profile views" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Kavya-M-Injineri&theme=midnight-purple&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
+
+</div>
+
+---
+
+###  Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/kavya-injineri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://portfolio-six-pied-83.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Kavya-M-Injineri)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=99999999&color=A78BFA&center=true&vCenter=true&width=600&lines=My+code+works.+I+have+no+idea+why.+My+tea+is+ready.+I+know+exactly+why.+☕)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kavya-M-Injineri&color=A78BFA&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
