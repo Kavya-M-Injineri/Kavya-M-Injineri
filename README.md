@@ -182,7 +182,7 @@ class Kavya:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/kavya-injineri)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://portfolio-six-pied-83.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Kavya-M-Injineri)
+[![Instagram](https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=A78BFA)](https://www.instagram.com/_.kaavyaa.___/)
 
 </div>
 
@@ -190,7 +190,7 @@ class Kavya:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=99999999&color=A78BFA&center=true&vCenter=true&width=600&lines=My+code+works.+I+have+no+idea+why.+My+tea+is+ready.+I+know+exactly+why.+☕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=99999999&color=A78BFA&center=true&vCenter=true&width=600&lines=My+code+works.+I+have+no+idea+why.+My+tea+is+ready.+I+know+exactly+why.)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kavya-M-Injineri&color=A78BFA&style=flat-square&label=Profile+Views)
 
