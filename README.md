@@ -39,64 +39,27 @@ class Kavya:
 
 <div align="center">
 
-**Programming Languages**
+### 🚀 Tech Arsenal
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=A78BFA)
 ![Java](https://img.shields.io/badge/Java-0f0c29?style=for-the-badge&logo=openjdk&logoColor=A78BFA)
 ![C](https://img.shields.io/badge/C-0f0c29?style=for-the-badge&logo=c&logoColor=A78BFA)
-
-**Frontend Development**
-
 ![HTML5](https://img.shields.io/badge/HTML5-0f0c29?style=for-the-badge&logo=html5&logoColor=A78BFA)
 ![CSS3](https://img.shields.io/badge/CSS3-0f0c29?style=for-the-badge&logo=css3&logoColor=A78BFA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=A78BFA)
-![React](https://img.shields.io/badge/React.js-0f0c29?style=for-the-badge&logo=react&logoColor=A78BFA)
-
-**Backend Development**
-
-![Flask](https://img.shields.io/badge/Flask-0f0c29?style=for-the-badge&logo=flask&logoColor=A78BFA)
-![FastAPI](https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=A78BFA)
+![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=A78BFA)
 ![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=node.js&logoColor=A78BFA)
-
-**Databases**
-
+![Flask](https://img.shields.io/badge/Flask-0f0c29?style=for-the-badge&logo=flask&logoColor=A78BFA)
 ![MySQL](https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=A78BFA)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
-
-**AI / Machine Learning**
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=A78BFA)
-![Keras](https://img.shields.io/badge/Keras-0f0c29?style=for-the-badge&logo=keras&logoColor=A78BFA)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0f0c29?style=for-the-badge&logo=pytorch&logoColor=A78BFA)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0f0c29?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-0f0c29?style=for-the-badge&logo=opencv&logoColor=A78BFA)
-![EfficientNet](https://img.shields.io/badge/EfficientNet-0f0c29?style=for-the-badge&logo=google&logoColor=A78BFA)
-![CNN](https://img.shields.io/badge/CNN-0f0c29?style=for-the-badge&logo=buffer&logoColor=A78BFA)
-![RNN/LSTM/GRU](https://img.shields.io/badge/RNN%2FLSTM%2FGRU-0f0c29?style=for-the-badge&logo=buffer&logoColor=A78BFA)
-
-**Generative AI & NLP**
-
-![RAG](https://img.shields.io/badge/RAG-0f0c29?style=for-the-badge&logo=openai&logoColor=A78BFA)
-![GANs](https://img.shields.io/badge/GANs-0f0c29?style=for-the-badge&logo=openai&logoColor=A78BFA)
-![BERT](https://img.shields.io/badge/BERT-0f0c29?style=for-the-badge&logo=huggingface&logoColor=A78BFA)
-![FAISS](https://img.shields.io/badge/FAISS-0f0c29?style=for-the-badge&logo=meta&logoColor=A78BFA)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-0f0c29?style=for-the-badge&logo=amazonaws&logoColor=A78BFA)
-![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=A78BFA)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0f0c29?style=for-the-badge&logo=githubactions&logoColor=A78BFA)
-
-**Version Control & Tools**
-
 ![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=A78BFA)
 ![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=A78BFA)
-![VS Code](https://img.shields.io/badge/VS%20Code-0f0c29?style=for-the-badge&logo=visualstudiocode&logoColor=A78BFA)
-
-**Core CS Concepts**
-
-![DSA](https://img.shields.io/badge/DSA-0f0c29?style=for-the-badge&logo=leetcode&logoColor=A78BFA)
-![OOP](https://img.shields.io/badge/OOP-0f0c29?style=for-the-badge&logo=buffer&logoColor=A78BFA)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-0f0c29?style=for-the-badge&logo=openai&logoColor=A78BFA)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=A78BFA)
+![RAG](https://img.shields.io/badge/RAG-0f0c29?style=for-the-badge&logo=openai&logoColor=A78BFA)
 
 </div>
 
@@ -109,7 +72,7 @@ class Kavya:
 <td width="50%">
 
 **🌾 KrishiSarthi AI**
-> Crop disease detection system using EfficientNet-B0 + YOLOv8. Real-time inference with bounding box overlays.
+> Crop disease detection system using EfficientNet-B0 + YOLOv8. Real-time inferece with bounding box overlays.
 
 `EfficientNet-B0` `YOLOv8` `PyTorch` `Flask`
 
