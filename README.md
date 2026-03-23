@@ -39,10 +39,6 @@ class Kavya:
 
 <div align="center">
 
-### 🚀 Tech Arsenal
-
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=A78BFA)
 ![Java](https://img.shields.io/badge/Java-0f0c29?style=for-the-badge&logo=openjdk&logoColor=A78BFA)
 ![C](https://img.shields.io/badge/C-0f0c29?style=for-the-badge&logo=c&logoColor=A78BFA)
@@ -71,54 +67,80 @@ class Kavya:
 <tr>
 <td width="50%">
 
-**🌾 KrishiSarthi AI**
-> Crop disease detection system using EfficientNet-B0 + YOLOv8. Real-time inferece with bounding box overlays.
+### 🌾 KrishiSarthi AI  
+Crop disease detection using EfficientNet-B0 + YOLOv8 with real-time bounding boxes.
 
-`EfficientNet-B0` `YOLOv8` `PyTorch` `Flask`
+**Tech Stack:** EfficientNet-B0 • YOLOv8 • PyTorch • Flask  
 
-</td>
-<td width="50%">
-
-**📚 DevDoc AI**
-> RAG-based documentation retrieval using FAISS vector store + BERT embeddings. Semantic search over codebases.
-
-`FAISS` `BERT` `RAG` `FastAPI`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🫁 Pneumonia Detection**
-> CNN-based medical image classifier. MobileNetV2 + Ayurvedic & modern medicine treatment recommendations.
-
-`CNN` `MobileNetV2` `Flask` `Medical AI`
+<a href="https://github.com/Kavya-M-Injineri/KrishiSarthi-AI">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40">
+</a>
 
 </td>
 <td width="50%">
 
-**🛡️ SoldierCare+**
-> Real-time biometric dashboard for soldier health monitoring with live WebSocket data streams.
+### 📚 DevDoc AI  
+RAG-based documentation retrieval using FAISS vector store and BERT embeddings.
 
-`React` `Node.js` `WebSockets` `PostgreSQL`
+**Tech Stack:** FAISS • BERT • RAG • FastAPI  
+
+<a href="https://github.com/Kavya-M-Injineri/DevDoc-AI">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40">
+</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-**🛸 SpaceGuard**
-> Anomaly detection on satellite telemetry using LSTM Autoencoder. Deployed on Hugging Face.
+### 🫁 Pneumonia Detection  
+CNN-based medical image classifier with treatment recommendation support.
 
-`LSTM Autoencoder` `Docker` `Hugging Face`
+**Tech Stack:** CNN • MobileNetV2 • Flask • Medical AI  
+
+<a href="https://github.com/Kavya-M-Injineri/pneumonia-detection-cnn">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40">
+</a>
 
 </td>
 <td width="50%">
 
-**✅ Task Manager**
-> Full-stack app with JWT auth, Swagger docs, and Dockerized deployment.
+### 🛡 SoldierCare+  
+Real-time biometric dashboard for monitoring soldier health via WebSockets.
 
-`Node.js` `PostgreSQL` `Sequelize` `Docker` `JWT`
+**Tech Stack:** React • Node.js • WebSockets • PostgreSQL  
+
+<a href="https://github.com/Kavya-M-Injineri/SoldierCare-">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛰 SpaceGuard  
+Satellite telemetry anomaly detection using LSTM Autoencoder.
+
+**Tech Stack:** LSTM Autoencoder • Docker • Hugging Face  
+
+<a href="https://github.com/Kavya-M-Injineri/Space-Guide">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40">
+</a>
+
+</td>
+<td width="50%">
+
+### ✅ Task Manager  
+Full-stack task management app with authentication and Docker deployment.
+
+**Tech Stack:** Node.js • PostgreSQL • Sequelize • Docker • JWT  
+
+<a href="https://github.com/Kavya-M-Injineri/Task-Manager">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40">
+</a>
 
 </td>
 </tr>
