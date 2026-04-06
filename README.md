@@ -147,15 +147,24 @@ Full-stack task management app with authentication and Docker deployment.
 </table>
 
 ---
-
 ###  GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kavya-M-Injineri&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kavya-M-Injineri&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true&include_all_commits=true" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-M-Injineri&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=ffffff" width="48%"/>
 
 <img src="https://streak-stats.demolab.com?user=Kavya-M-Injineri&theme=midnight-purple&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
+
+</div>
+
+---
+
+### Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavya-M-Injineri&bg_color=0f0c29&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
