@@ -56,6 +56,7 @@ class Kavya:
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-0f0c29?style=for-the-badge&logo=openai&logoColor=A78BFA)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=A78BFA)
 ![RAG](https://img.shields.io/badge/RAG-0f0c29?style=for-the-badge&logo=openai&logoColor=A78BFA)
+![Jenkins](https://img.shields.io/badge/Jenkins-0f0c29?style=for-the-badge&logo=jenkins&logoColor=A78BFA)
 
 </div>
 
