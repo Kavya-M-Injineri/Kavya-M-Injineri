@@ -171,6 +171,12 @@ Full-stack task management app with authentication and Docker deployment.
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kavya-M-Injineri" alt="trophies" />
+</p>
+
+---
+
 ###  Connect
 
 <div align="center">
